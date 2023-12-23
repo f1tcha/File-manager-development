@@ -1,0 +1,12 @@
+2023-12-23 16:00:51,539 INFO  main:22 - Start app
+2023-12-23 16:00:54,248 INFO  main:22 - Start app
+2023-12-23 16:00:57,545 INFO  copyFileToDestination:29 - Copying file:111111111 from: C:\Users\tat-p\Documents\ to: C:\Users\tat-p\Documents
+2023-12-23 16:00:57,546 ERROR copyFileToDestination:44 - File Not Found
+java.io.FileNotFoundException: C:\Users\tat-p\Documents\111111111 (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at voids.copyFileToDestination.<init>(copyFileToDestination.java:30)
+	at voids.processDestinationSelection.<init>(processDestinationSelection.java:24)
+	at voids.processFileSelection.<init>(processFileSelection.java:22)
+	at voids.main.main(main.java:25)

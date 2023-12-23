@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"voids","l":"copyFileToDestination"},{"p":"voids","l":"displayFileSize"},{"p":"voids","l":"FolderSize"},{"p":"voids","l":"main"},{"p":"voids","l":"processDestinationSelection"},{"p":"voids","l":"processFileSelection"}]
